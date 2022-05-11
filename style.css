@@ -1,0 +1,34 @@
+.body_background{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.cqErNAMvSkVhiulxBtuZlgHaEK&pid=Api&rs=1&c=1&qlt=95&w=204&h=114");
+    background-position: center;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px black;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+#spongebob{
+        width: 400;
+        float:right;
+}
+.copy_right_footer{
+    position: fixed;
+    color: red;
+    
+    bottom: 25px;
+    width: 100%;
+    background-color: yellow;
+    line-height:  50px;
+    text-align:center;
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
